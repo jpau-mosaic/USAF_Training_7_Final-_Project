@@ -1,0 +1,8 @@
+name: intro_environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - matplotlib
+  - plotly
+  - numpy
